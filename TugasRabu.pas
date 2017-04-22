@@ -53,7 +53,7 @@ end;
   cekBulat(x);
   tukar(x,y,z);
   writeln(x,' ',y);
-  writeln(kali(x,y));
+  writeln(kali(x,y)); // di kali bray
   readln;
   readln;
   end.
