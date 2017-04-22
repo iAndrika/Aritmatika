@@ -1,4 +1,3 @@
-//test
 
 program TugasRabu;
     function bagi(x,y:integer):real;
